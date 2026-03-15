@@ -1,0 +1,31 @@
+City,BHK,Rent,Sqft,Property_Type,Furnishing,Parking,Distance_to_Center_km,Latitude,Longitude
+Chennai,2,18000,950,Apartment,Semi-Furnished,Yes,4.5,13.0827,80.2707
+Chennai,3,35000,1500,Villa,Furnished,Yes,8.2,12.9716,80.2464
+Chennai,1,10000,600,Independent House,Unfurnished,No,12.0,13.1143,80.1462
+Coimbatore,2,14000,1000,Apartment,Semi-Furnished,Yes,3.0,11.0168,76.9558
+Coimbatore,3,22000,1400,Independent House,Furnished,Yes,6.5,11.0500,76.9800
+Coimbatore,1,8000,550,Apartment,Unfurnished,No,2.5,11.0000,76.9600
+Madurai,2,11000,900,Apartment,Semi-Furnished,Yes,4.0,9.9252,78.1198
+Madurai,1,6500,500,Independent House,Unfurnished,No,7.0,9.9500,78.1500
+Madurai,3,18000,1350,Villa,Furnished,Yes,10.5,9.9000,78.1000
+Tiruchirappalli,2,12000,950,Apartment,Semi-Furnished,Yes,3.5,10.7905,78.7047
+Tiruchirappalli,1,7000,550,Independent House,Unfurnished,No,5.0,10.8100,78.6900
+Salem,2,10500,900,Apartment,Semi-Furnished,Yes,4.2,11.6643,78.1460
+Salem,3,16000,1300,Independent House,Furnished,Yes,6.0,11.6800,78.1200
+Tiruppur,1,6000,500,Apartment,Unfurnished,No,2.0,11.1085,77.3411
+Tiruppur,2,11500,950,Independent House,Semi-Furnished,Yes,4.5,11.1200,77.3500
+Erode,2,10000,850,Apartment,Semi-Furnished,Yes,3.0,11.3410,77.7172
+Erode,3,17000,1400,Villa,Furnished,Yes,8.0,11.3600,77.7300
+Vellore,1,6500,550,Apartment,Unfurnished,No,2.5,12.9165,79.1325
+Vellore,2,11000,950,Independent House,Semi-Furnished,Yes,5.5,12.9300,79.1500
+Thanjavur,2,9500,900,Apartment,Semi-Furnished,Yes,3.0,10.7870,79.1378
+Thanjavur,1,5500,500,Independent House,Unfurnished,No,4.0,10.8000,79.1500
+Hosur,2,13000,950,Apartment,Semi-Furnished,Yes,3.5,12.7409,77.8253
+Hosur,3,20000,1450,Villa,Furnished,Yes,7.0,12.7600,77.8400
+Chennai,2,19500,1050,Apartment,Furnished,Yes,5.0,13.0500,80.2500
+Coimbatore,2,13500,950,Apartment,Unfurnished,Yes,4.0,11.0300,76.9700
+Madurai,2,12500,1000,Independent House,Semi-Furnished,Yes,5.5,9.9400,78.1300
+Tiruchirappalli,3,19000,1500,Villa,Furnished,Yes,8.5,10.7700,78.7200
+Salem,1,6500,600,Apartment,Unfurnished,No,3.0,11.6500,78.1600
+Tiruppur,3,18000,1400,Villa,Furnished,Yes,7.5,11.0900,77.3300
+Chennai,4,45000,2200,Villa,Furnished,Yes,10.0,12.9000,80.2000
